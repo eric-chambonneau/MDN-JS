@@ -1,0 +1,31 @@
+form {
+    width: 500px;
+    margin: auto;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  label {
+    font-size: 20px;
+    margin-right: 10px;
+  }
+  
+  input[type="text"], input[type="email"], input[type="password"] {
+    width: 300px;
+    height: 30px;
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  input[type="submit"] {
+    width: 150px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  Ce n'est qu'un exemple de base pour vous aider à démarrer, vous pouvez personnaliser et étendre ce formulaire en fonction de vos besoins.
+  
